@@ -1,1 +1,1 @@
-# Self-taught-progammer-projects
+# Self-taught-programmer-projects
